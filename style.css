@@ -1,0 +1,19 @@
+#myhr{
+  position: absolute;
+  width: 100%;
+  top: 26pc
+}
+#huanlexijuren{
+  position: absolute;
+  top: 28pc;
+  left: 100px;
+  height: 190px;
+  width: 145px;
+  border-color: black;
+  border: 5px;
+  border-width: 150px;
+  
+}
+#huanlexijuren:hover{
+  cursor: pointer;
+}
