@@ -17,3 +17,17 @@
 #huanlexijuren:hover{
   cursor: pointer;
 }
+#serch{
+  height: 40px;
+  width: 17pc;
+  position: absolute;
+  top: 25px;
+  right: 400px;
+}
+#serchbtn{
+  height: 46px;
+  width: 61px;
+  position: absolute;
+  top: 25px;
+  right: 340px;
+}
