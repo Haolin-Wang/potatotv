@@ -10,3 +10,12 @@
   background-color: rgb(124, 128, 134);
   border: 1px;
 }
+#决战中途岛第一季图片{
+  position: absolute;
+  left: 200px;
+  top: 40px;
+  width: 250px;
+  height: 300px;
+}
+#决战中途岛第一季图片:hover{
+}
