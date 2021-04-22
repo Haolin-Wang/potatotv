@@ -55,3 +55,14 @@
 #juezhanzhongtudao:hover{
   cursor: pointer;
 }
+#决战中途岛第一季图片{
+  position: absolute;
+  top: 28pc;
+  left: 300px;
+  height: 190px;
+  width: 144px;
+  border-color: black;
+  border: 5px;
+  border-width: 150px;
+  
+}
