@@ -41,3 +41,17 @@
 #logo:hover{
   cursor: pointer;
 }
+#juezhanzhongtudao{
+  position: absolute;
+  top: 28pc;
+  left: 300px;
+  height: 190px;
+  width: 145px;
+  border-color: black;
+  border: 5px;
+  border-width: 150px;
+  
+}
+#juezhanzhongtudao:hover{
+  cursor: pointer;
+}
