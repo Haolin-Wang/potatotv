@@ -1,0 +1,105 @@
+#跳转到第一集{
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第一集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第二集{
+  position: absolute;
+  top: 400px;
+  left: 300px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第二集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第三集{
+  position: absolute;
+  top: 400px;
+  left: 400px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第三集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第四集{
+  position: absolute;
+  top: 400px;
+  left: 500px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第四集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第五集{
+  position: absolute;
+  top: 400px;
+  left: 600px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第五集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第六集{
+  position: absolute;
+  top: 400px;
+  left: 700px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第六集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第七集{
+  position: absolute;
+  top: 450px;
+  left: 200px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第七集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#跳转到第八集{
+  position: absolute;
+  top: 450px;
+  left: 300px;
+  width: 70px;
+  height: 40px;
+}
+#跳转到第八集:hover{
+  cursor: pointer;
+  background-color: rgb(124, 128, 134);
+  border: 1px;
+}
+#欢乐喜剧人第一季图片{
+  position: absolute;
+  left: 200px;
+  top: 40px;
+  width: 250px;
+  height: 300px;
+}
+#欢乐喜剧人第一季图片:hover{
+}
