@@ -31,3 +31,13 @@
   top: 25px;
   right: 340px;
 }
+#logo{
+  position: absolute;
+  top: 5px;
+  left: 30px;
+  height: 70px;
+  width: 220px;
+}
+#logo:hover{
+  cursor: pointer;
+}
